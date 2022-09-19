@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "831709560001",
+    "project_id": "coding-658e2",
+    "storage_bucket": "coding-658e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831709560001:android:4a3e34ab7ed2dd46f52840",
+        "android_client_info": {
+          "package_name": "com.example.codingsolutionusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831709560001-qpa27tusj0djiolmf7elrm2f1mbvgkqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIQaE5PvOPSPrrYTVpQKJwhYk20FwRBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831709560001-qpa27tusj0djiolmf7elrm2f1mbvgkqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831709560001-ej00re6hh4g78s0auq9s5bhbrhcjdro9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codingsolutionedu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831709560001:android:ceadc1770702b531f52840",
+        "android_client_info": {
+          "package_name": "com.example.us_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831709560001-qpa27tusj0djiolmf7elrm2f1mbvgkqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOIQaE5PvOPSPrrYTVpQKJwhYk20FwRBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831709560001-qpa27tusj0djiolmf7elrm2f1mbvgkqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "831709560001-ej00re6hh4g78s0auq9s5bhbrhcjdro9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.codingsolutionedu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
